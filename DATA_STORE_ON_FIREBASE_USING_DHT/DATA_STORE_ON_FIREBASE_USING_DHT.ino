@@ -7,9 +7,9 @@
 #define WIFI_PASSWORD "00000000"
 
 /* ---------------- FIREBASE CREDENTIALS ---------------- */
-#define API_KEY "AIzaSyDqIqOJ2UcH7kF0BH9eyARFRAFA4Nou6oA"
-#define DATABASE_URL "https://temp-humidity-monitoring-f0d02-default-rtdb.firebaseio.com/"
-#define DATABASE_SECRET "fC49kPjBhys4vCl0SMroSOVtRwOJGN9ssZ7Vffvx"  // Legacy token
+#define API_KEY "API_KEY"
+#define DATABASE_URL "FIREBASE_URL"
+#define DATABASE_SECRET "SECRET_CODE"  // Legacy token
 
 /* ---------------- DHT CONFIGURATION ---------------- */
 #define DHTPIN 4
